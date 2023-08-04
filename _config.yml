@@ -1,11 +1,10 @@
 title: Banyu Vidiapratama # your name (or website title) here
 logo: "/images/profpic.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <A data-driven generalist with inter-disciplinary exposures from investment banking, portfolio management, to operation ecosystem.><Currently leading a team in the user growth function in Lazada focusing on the growth, marketing, strategy, and business operations.A data-driven generalist with inter-disciplinary exposures from investment banking, portfolio management, to operation ecosystem. Currently leading a team in the user growth function in Lazada focusing on the growth, marketing, strategy, and business operations.>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/banyuvidiapratama/">View My LinkedIn Profile</a> 
+ A data-driven generalist with inter-disciplinary exposures from investment banking, portfolio management, to operation ecosystem.  
+ <br><br>
+Currently leading a team in the user growth function in Lazada focusing on the growth, marketing, strategy, and business operations.
+<a href="https://www.linkedin.com/in/banyuvidiapratama/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
