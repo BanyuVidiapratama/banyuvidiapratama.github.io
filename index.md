@@ -2,7 +2,7 @@
 
 ---
 
-### Pituitary Tumor Image Classification
+### Deep Learning: Pituitary Tumor Image Classification
 
 In medical field, failing to identify and classify medical images causes misguidance of diagnosis, treatment planning, and disease monitoring. In this project, I develop a tailored classifier using CNNs and implement Transfer Learning to build an image classifier that differentiates between MRI scans of Pituitary Tumors and those without tumors.
 
@@ -12,6 +12,17 @@ In medical field, failing to identify and classify medical images causes misguid
 
 
 ---
+
+### Supervised ML: Predicting Hospital Lengths of Stay with feature importance
+
+Inefficient distribution of resources like beds and ventilators might lead to a lot of complications. In this project, I use several techniques to predict patients's lenghts of stay before getting admitted. Using the model, hospital can plan a suitable treatment, resources, and staff to increase the chances of recovery. 
+
+[View code on Colab](https://colab.research.google.com/drive/1epnk3hGYLyWA8Vj1EpGrG8HqhL_TvslM#scrollTo=pG7RImq5Jnzy))
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+
+
+
 
 ### Dynamic pricing for Ride-hailing services
 
