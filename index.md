@@ -6,7 +6,7 @@
 
 In medical field, failing to identify and classify medical images causes misguidance of diagnosis, treatment planning, and disease monitoring. In this project, I develop a tailored classifier using CNNs and implement Transfer Learning to build an image classifier that differentiates between MRI scans of Pituitary Tumors and those without tumors.
 
-<img src="images/Brain Tumor.JPG?raw=true" />
+<img src="images/Brain Tumor2.JPG?raw=true" />
 
 [View code on Colab](https://colab.research.google.com/drive/1s8BW-gOU8iJlRtB73L5KqTEr-wyKWExx#scrollTo=K_CLUCoqic_a)
 
