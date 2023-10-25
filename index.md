@@ -4,9 +4,11 @@
 
 ### Pituitary Tumor Image Classification
 
-In medical field, failing to identify and classify medical images causes misguide of diagnosis, treatment planning, and disease monitoring. In this project, I develop a tailored classifier using CNNs and implement Transfer Learning to build an image classifier that differentiates between MRI scans of Pituitary Tumors and those without tumors.
+In medical field, failing to identify and classify medical images causes misguidance of diagnosis, treatment planning, and disease monitoring. In this project, I develop a tailored classifier using CNNs and implement Transfer Learning to build an image classifier that differentiates between MRI scans of Pituitary Tumors and those without tumors.
 
 [View code on Colab](https://colab.research.google.com/drive/1s8BW-gOU8iJlRtB73L5KqTEr-wyKWExx#scrollTo=K_CLUCoqic_a)
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
 
 ---
