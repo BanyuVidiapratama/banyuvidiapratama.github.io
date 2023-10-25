@@ -17,7 +17,7 @@ In medical field, failing to identify and classify medical images causes misguid
 
 Inefficient distribution of resources like beds and ventilators might lead to a lot of complications. In this project, I use several techniques to predict patients's lenghts of stay before getting admitted. Using the model, hospital can plan a suitable treatment, resources, and staff to increase the chances of recovery. 
 
-<img src="images/Hospital LOS.jpg?raw=true" />
+<img src="images/Hospital LOS.JPG?raw=true" />
 
 [View code on Colab](https://colab.research.google.com/drive/1epnk3hGYLyWA8Vj1EpGrG8HqhL_TvslM#scrollTo=pG7RImq5Jnzy))
 
