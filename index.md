@@ -13,7 +13,7 @@ In medical field, failing to identify and classify medical images causes misguid
 
 ---
 
-### Supervised ML: Predicting Hospital Lengths of Stay with feature importance
+### Supervised ML: Predicting Hospital Lengths of Stay (with feature importance)
 
 Inefficient distribution of resources like beds and ventilators might lead to a lot of complications. In this project, I use several techniques to predict patients's lenghts of stay before getting admitted. Using the model, hospital can plan a suitable treatment, resources, and staff to increase the chances of recovery. 
 
