@@ -47,7 +47,7 @@ Inefficient distribution of resources like beds and ventilators might lead to a 
 
 ### Supervised ML: Using KNN to detect multi-class classification of Astronomical Objects
 
-The detection of celestial objects observed through telescopes as being either a star, a galaxy or a quasar, is an important classification scheme in astronomy. In this classification project, I will employ non-linear methods such as k-Nearest Neighbors and Decision Trees. 
+The detection of celestial objects observed through telescopes as being either a star, a galaxy or a quasar, is an important classification scheme in astronomy. In this classification project, I will employ non-linear methods such as k-Nearest Neighbors (integrated with PCA dimensionality reductions) and Decision Trees. 
 
 <img src="images/Celestial Objects.JPG?raw=true" />
 
