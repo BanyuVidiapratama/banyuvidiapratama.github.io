@@ -62,7 +62,7 @@ The detection of celestial objects observed through telescopes as being either a
 
 ### Optimizing Resource Allocation in an Edtech's Customer Conversion Funnel
 
-In growing its user base, an Edtech company faces challenge of efficiently prioritizing leads with higher conversion potential among the influx of generated leads. This research aims to aid management in optimizing resource allocation and enhance the effectiveness of lead nurturing efforts. 
+In growing its user base, an Edtech company faces challenge of efficiently prioritizing leads with higher conversion potential among the influx of generated leads. This project aims to aid management in optimizing resource allocation and enhance the effectiveness of lead nurturing efforts. 
 
 <img src="images/EdTech convertion.JPG?raw=true" />
 
