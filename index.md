@@ -4,7 +4,7 @@
 
 ### Recommendation System: E-Commerce Product Suggestion
 
-Recommender systems excel at suggesting products to users during their online shopping. They enhance user engagement and business by offering personalized, relevant recommendations. In this project, I develop a system based on collaborative-filtering that suggests products based on customers' past product ratings.
+Recommender systems excel at suggesting products to users by enhancing user engagement, offering personalized, and relevant recommendations. In this project, I develop a system based on collaborative-filtering that suggests products based on customers' past product ratings.
 
 [View code on Colab](https://colab.research.google.com/drive/1jmQuwsDhJAa1oif0dNJAxMcpq9JNAMIG?usp=sharing)
 
