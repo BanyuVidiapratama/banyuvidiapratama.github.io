@@ -2,6 +2,22 @@
 
 ---
 
+### Recommendation System: E-Commerce Product Suggestion
+
+Recommender systems excel at suggesting products to users during their online shopping. They enhance user engagement and business by offering personalized, relevant recommendations. In this project, I develop a system based on collaborative-filtering that suggests products based on customers' past product ratings.
+
+<img src="images/Brain Tumor2.JPG?raw=true" />
+
+[View code on Colab](https://colab.research.google.com/drive/1jmQuwsDhJAa1oif0dNJAxMcpq9JNAMIG?usp=sharing)
+
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+
+
+---
+
+
+
 ### Deep Learning: Pituitary Tumor Image Classification
 
 In medical field, failing to identify and classify medical images causes misguidance of diagnosis, treatment planning, and disease monitoring. In this project, I develop a tailored classifier using CNNs and implement Transfer Learning to build an image classifier that differentiates between MRI scans of Pituitary Tumors and those without tumors.
